@@ -1,7 +1,7 @@
 var
   data = require('./data')
 
-, fancyNounMaxSize = 10
+, fancyNounMaxSize = 7
 , fancyNounCurrentSize = 0
 ;
 
